@@ -15,7 +15,7 @@
 
 LOCAL_PATH:= $(call my-dir)
 
-# Disable frameworks aoscp for PDK builds instead
+# Disable frameworks evolution for PDK builds instead
 # use prebuilts/sdk/current/
 ifneq ($(TARGET_BUILD_PDK),true)
 # Don't include in unbundled build.

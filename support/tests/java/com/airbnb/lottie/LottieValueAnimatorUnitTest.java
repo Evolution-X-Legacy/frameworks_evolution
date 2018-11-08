@@ -1,4 +1,4 @@
-package aoscp.support.lottie;
+package evolution.support.lottie;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -6,10 +6,10 @@ import android.graphics.Rect;
 import android.support.v4.util.LongSparseArray;
 import android.support.v4.util.SparseArrayCompat;
 
-import aoscp.support.lottie.model.Font;
-import aoscp.support.lottie.model.FontCharacter;
-import aoscp.support.lottie.model.layer.Layer;
-import aoscp.support.lottie.utils.LottieValueAnimator;
+import evolution.support.lottie.model.Font;
+import evolution.support.lottie.model.FontCharacter;
+import evolution.support.lottie.model.layer.Layer;
+import evolution.support.lottie.utils.LottieValueAnimator;
 
 import org.junit.Before;
 import org.junit.Test;
